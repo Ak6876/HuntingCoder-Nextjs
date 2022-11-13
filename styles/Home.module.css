@@ -42,7 +42,7 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 2.5rem;
 }
 
 .title,
@@ -51,7 +51,7 @@
 }
 
 .description {
-  margin: 4rem 0;
+  margin: 2rem 0;
   line-height: 1.5;
   font-size: 1.5rem;
 }
@@ -137,3 +137,32 @@
   list-style: none;
   font-weight: bold;
 }
+.h2{
+  font-size: 1.5rem;
+}
+.h3{
+  font-size: 1.5rem;
+  margin-top: 0px;
+  margin-bottom: 11px;
+}
+.btn{
+  background: #0070f3;
+  cursor: pointer;
+  padding: 7px 6px;
+  border-radius: 6px;
+  border: 1px solid blue;
+  margin-bottom: 9px;
+  font-size: 10px;
+}
+.p{
+  margin: 16px 0px;
+  margin-top: 3px;
+}
+@media only screen and (max-width: 600px){
+  
+    .mainnav ul li{
+      margin: 0px 6px;
+      list-style: none;
+      font-weight: bold;
+    }
+  }

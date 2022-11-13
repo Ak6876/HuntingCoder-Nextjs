@@ -11,3 +11,15 @@
 .blogitemh3{
  cursor: pointer;
 }  
+.blogitemp{
+  max-width: 45vw;
+}
+.btn{
+  background: #0070f3;
+  cursor: pointer;
+  padding: 7px 6px;
+  border-radius: 6px;
+  border: 1px solid blue;
+  margin-bottom: 9px;
+  font-size: 12px;
+}
